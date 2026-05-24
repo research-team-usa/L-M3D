@@ -49,7 +49,7 @@ This technology, including all attached documents, engineering specifications, s
 * All unauthorized reproduction, physical manufacturing, reverse engineering, testing, commercial distribution, or software-based replication of this architecture in hardware or data center infrastructure is **strictly prohibited**.
 * This technology, including its complete patent-ready documentation package, is open for acquisition. For formal corporate purchase inquiries, intellectual property transfer offers, or structural licensing agreements, contact the architect directly.
 
-# 📧 Contact & Inquiry Channels
+## contakt: [ **Email📧**](contact.md) Contact & Inquiry Channels
 * Formal investment and technology acquisition requests can be submitted via the official contact routing profile attached within this repository.
 
 *Unauthorized implementation or copying of this architecture constitutes a direct violation of international intellectual property laws. The technology remains entirely owned by the creator until a bilateral sale agreement is fully executed.*
