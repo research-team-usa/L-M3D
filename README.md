@@ -22,8 +22,8 @@ Developed under the Universal Transfer Method (MUT) framework, this system achie
 ## 🔗 Master Media & Video Documentation
 Access the official technical verification and evolution breakdown videos here:
 
-* 📹 **[L-M3D Abyss: Technology Evolution & Paradigm Shift](L-M3D_Abyss__Evolution.mp4)** – Detailed conceptual overview, identification of conventional architectural vulnerabilities, and the engineering behind the six physical pillars.
-* 📹 **[L-M3D Abyss: Zero-Risk Operational Cooling Live Demonstration](L-M3D_Abyss__Zero-Risk_Cooling.mp4)** – Technical deep-dive proving loop stability, hermetic sealing integrity, and multi-domain deterministic defense mechanisms.
+* 📹 **[L-M3D Abyss: Technology Evolution & Paradigm Shift](https://drive.google.com/file/d/15jzvJfpDsLQoyTphDCCCWe4gUdMoFBfL/view?usp=sharing)** – Detailed conceptual overview, identification of conventional architectural vulnerabilities, and the engineering behind the six physical pillars.
+* 📹 **[L-M3D Abyss: Zero-Risk Operational Cooling Live Demonstration](https://drive.google.com/file/d/1KNK6w4xEFcxCeNyGIRZHtUMTrm_V1nV9/view?usp=sharing)** – Technical deep-dive proving loop stability, hermetic sealing integrity, and multi-domain deterministic defense mechanisms.
 
 ---
 simulation: [html](https://heroic-boba-1a6b62.netlify.app/)
