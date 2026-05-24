@@ -1,5 +1,5 @@
 # Contact & Licensing Inquiries
-## Monolithic 3D-mMHD Architecture
+## L-M3D Architecture
 
 This repository contains proprietary technical documentation and intellectual property regarding the Monolithic 3D-mMHD Architecture. 
 
