@@ -1,5 +1,6 @@
 # L-M3D "Abyss" Zero-Risk Cooling Architecture
 **Status:** Verified & Production-Ready | **Architecture:** Universal Transfer Method (MUT) | **Cooling:** Closed-Loop Dielectric Impingement
+
 <img src="https://github.com/user-attachments/assets/d594c43b-3278-41ae-a132-cb4c865dbf3f" alt="L-M3D Abyss Architecture Schematic" width="800">
 
 ---
