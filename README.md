@@ -3,7 +3,7 @@
 **Status:** Verified & Production-Ready | **Architecture:** Universal Transfer Method (MUT) | **Cooling:** Closed-Loop Dielectric Impingement
 
 ## Architectural Schematic
-<img src="https://github.com/user-attachments/assets/b231e66c-2361-4adf-98aa-05eb82eb0089" alt="L-M3D Abyss Architecture Schematic" width="800">
+<img src="https://github.com/user-attachments/assets/d594c43b-3278-41ae-a132-cb4c865dbf3f" alt="L-M3D Abyss Architecture Schematic" width="800">
 
 ---
 
