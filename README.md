@@ -1,9 +1,11 @@
+<img src="https://github.com/user-attachments/assets/d594c43b-3278-41ae-a132-cb4c865dbf3f" alt="L-M3D Abyss Architecture Schematic" width="800">
+
 # L-M3D "Abyss" Zero-Risk Cooling Architecture
 
 **Status:** Verified & Production-Ready | **Architecture:** Universal Transfer Method (MUT) | **Cooling:** Closed-Loop Dielectric Impingement
 
 ## Architectural Schematic
-<img src="https://github.com/user-attachments/assets/d594c43b-3278-41ae-a132-cb4c865dbf3f" alt="L-M3D Abyss Architecture Schematic" width="800">
+<img src="https://github.com/user-attachments/assets/62d2b70d-bd55-459a-a80e-79d9e0876e37" alt="L-M3D Abyss Architecture Schematic" width="800">
 
 ---
 
