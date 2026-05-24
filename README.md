@@ -46,6 +46,7 @@ This technology, including all attached documents, engineering specifications, s
 
 **Strict Usage Restriction:**
 * **No license is granted.**
+* [LICENSE](LICENSE.md) | Intellectual property and usage license terms. |
 * All unauthorized reproduction, physical manufacturing, reverse engineering, testing, commercial distribution, or software-based replication of this architecture in hardware or data center infrastructure is **strictly prohibited**.
 * This technology, including its complete patent-ready documentation package, is open for acquisition. For formal corporate purchase inquiries, intellectual property transfer offers, or structural licensing agreements, contact the architect directly.
 
