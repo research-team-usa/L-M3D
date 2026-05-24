@@ -29,9 +29,6 @@ Access the official technical verification and evolution breakdown videos here:
 * 📹 **[L-M3D Abyss: Zero-Risk Operational Cooling Live Demonstration](https://drive.google.com/file/d/1KNK6w4xEFcxCeNyGIRZHtUMTrm_V1nV9/view?usp=sharing)** – Technical deep-dive proving loop stability, hermetic sealing integrity, and multi-domain deterministic defense mechanisms.
 
 ---
-simulation: [html](https://heroic-boba-1a6b62.netlify.app/)
-
----
 ## 📂 Project Contents & File Inventory
 
 | File Name | Description | Physical / Technical Focus |
@@ -40,7 +37,7 @@ simulation: [html](https://heroic-boba-1a6b62.netlify.app/)
 | **[Production Data Sheet](Production_Data_Sheet.pdf)** | Step-by-step manufacturing, amorphous hardening parameters, sintering profiles, and final quality control testing protocols. | Sintering (10 MPa @ 250°C), Ni-P Plating, Quality Assurance |
 | **[Supplementary Document Mechanical Bolting](Supplementary_Document_Mechanical_Bolting_and_Bottom-Side_Mounting.pdf)** | Mechanical blueprint for bottom-side mounting. Symmetrical force distribution and anti-relaxation spring stack profiles. | Kellermann-Klein Torque (0.46 Nm), Belleville Washers (900 N) |
 | **[Comprehensive Bill of Materials](Comprehensive_Bill_Of_Materials.pdf)** | Itemized component directory including precise dimensions, raw material requirements, quantities, and cost assessment. | CuW 85/15, OFHC Copper, Ti-6Al-4V, PEEK, Zeolite A |
-| **[HTML Live System Simulation Interface](HTML-Code-für-PC-Teile.html)** | Interactive, real-time HMI digital twin dashboard. Visualizes loop piping, thermal conduction, and reactive SCADA telemetry. | Real-Time Vector-Based Flow, Dynamic Delta-T Calculation |
+| **[HTML Live System Simulation Interface](https://heroic-boba-1a6b62.netlify.app/)** | Interactive, real-time HMI digital twin dashboard. Visualizes loop piping, thermal conduction, and reactive SCADA telemetry. | Real-Time Vector-Based Flow, Dynamic Delta-T Calculation |
 
 ---
 
