@@ -13,7 +13,7 @@ This repository contains proprietary technical documentation and intellectual pr
 ---
 
 ### Licensing & Usage Policy
-The Monolithic 3D-mMHD Architecture is the exclusive intellectual property of Emanuel Schaaf. 
+The Monolithic L-M3D Architecture is the exclusive intellectual property of Emanuel Schaaf. 
 
 * **Prohibited Usage:** Any form of usage, reverse engineering, testing, benchmarking, or integration into commercial or private hardware/software is strictly prohibited.
 * **Compliance:** There are no implied or explicit usage rights. Any unauthorized use will be treated as an infringement of intellectual property rights.
