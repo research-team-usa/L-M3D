@@ -36,7 +36,7 @@ Access the official technical verification and evolution breakdown videos here:
 | **[Technical Dossier L-M3D](Technical_Dossier_L-M3D.pdf)** | Ultimate Industrial Safeguard master compendium. Full physical derivations, formulas, and core architecture logic. | Gibbs-Thomson Effect, Archard Wear, Stokes' Law, Wöhler Curve |
 | **[Production Data Sheet](Production_Data_Sheet.pdf)** | Step-by-step manufacturing, amorphous hardening parameters, sintering profiles, and final quality control testing protocols. | Sintering (10 MPa @ 250°C), Ni-P Plating, Quality Assurance |
 | **[Supplementary Document Mechanical Bolting](Supplementary_Document_Mechanical_Bolting_and_Bottom-Side_Mounting.pdf)** | Mechanical blueprint for bottom-side mounting. Symmetrical force distribution and anti-relaxation spring stack profiles. | Kellermann-Klein Torque (0.46 Nm), Belleville Washers (900 N) |
-| **[Comprehensive Bill of Materials](Comprehensive_Bill_Of_Materials.pdf)** | Itemized component directory including precise dimensions, raw material requirements, quantities, and cost assessment. | CuW 85/15, OFHC Copper, Ti-6Al-4V, PEEK, Zeolite A |
+| **[Comprehensive Bill of Materials](Comprehensive_Bill_of_Materials.pdf)** | Itemized component directory including precise dimensions, raw material requirements, quantities, and cost assessment. | CuW 85/15, OFHC Copper, Ti-6Al-4V, PEEK, Zeolite A |
 | **[HTML Live System Simulation Interface](https://heroic-boba-1a6b62.netlify.app/)** | Interactive, real-time HMI digital twin dashboard. Visualizes loop piping, thermal conduction, and reactive SCADA telemetry. | Real-Time Vector-Based Flow, Dynamic Delta-T Calculation |
 
 ---
