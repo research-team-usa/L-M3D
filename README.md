@@ -26,7 +26,9 @@ Access the official technical verification and evolution breakdown videos here:
 * 📹 **[L-M3D Abyss: Zero-Risk Operational Cooling Live Demonstration](L-M3D_Abyss__Zero-Risk_Cooling.mp4)** – Technical deep-dive proving loop stability, hermetic sealing integrity, and multi-domain deterministic defense mechanisms.
 
 ---
+simulation: [html](https://heroic-boba-1a6b62.netlify.app/)
 
+---
 ## 📂 Project Contents & File Inventory
 
 | File Name | Description | Physical / Technical Focus |
