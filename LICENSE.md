@@ -1,4 +1,4 @@
-L-M3D Source-Available License
+# L-M3D Source-Available License
 Copyright (c) 2026 Emanuel Schaaf. All rights reserved.
 
 1. Purpose
